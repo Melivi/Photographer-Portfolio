@@ -19,7 +19,7 @@
         // check files
         if(is_file("page/$go.php")) include "page/$go.php";
         // message, if the file doesn't exist
-        else echo "<p>Przepraszamy, nie ma takiej strony bądź jest w budowie.</p>";
+        else echo "<p>Sorry, there is no such page, or is under construction.</p>";
     }
     // if $go is empty then display home page
     else {
