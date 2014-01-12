@@ -9,6 +9,8 @@ The site can be seen on [Photographer Portfolio Grace J. Raff](http://www.melivi
 Screenshot
 ======================
 
+![alt text](https://raw.github.com/Melivi/Photographer-Portfolio/master/screenshot.png)
+
 ----------------------
 
 Tools
